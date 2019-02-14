@@ -18,6 +18,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "helpme": "gh-pages --help",
     "precommit": "NODE_ENV=production & lint-staged"
   },
   "eslintConfig": {
