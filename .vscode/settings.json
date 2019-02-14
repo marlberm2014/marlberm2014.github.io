@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "editor.formatOnType": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.enable": true,
+  "prettier.singleQuote": true,
+  "beautify.ignore": ["**/*.js", "**/*.jsx"]
+}
