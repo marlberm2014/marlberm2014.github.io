@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "48c534a5e0e945e24893",
-    "url": "/static/css/main.104eac82.chunk.css"
+    "revision": "8de5e6f390f1e34e2341",
+    "url": "/static/css/main.60992171.chunk.css"
   },
   {
-    "revision": "48c534a5e0e945e24893",
-    "url": "/static/js/main.48c534a5.chunk.js"
+    "revision": "8de5e6f390f1e34e2341",
+    "url": "/static/js/main.8de5e6f3.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/Marl-Bermudo-OJ-Abesamis-thesis.3e0bb9d6.pdf"
   },
   {
-    "revision": "5d896e066043bcd11b4217805b728135",
+    "revision": "e8b0182bdce9c11106c6e1aa2510236c",
     "url": "/index.html"
   }
 ];
