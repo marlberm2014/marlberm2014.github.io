@@ -1,19 +1,20 @@
 {
-  "main.css": "/static/css/main.fc5cf65a.chunk.css",
-  "main.js": "/static/js/main.9fa9813f.chunk.js",
-  "main.js.map": "/static/js/main.9fa9813f.chunk.js.map",
+  "main.css": "/static/css/main.46998016.chunk.css",
+  "main.js": "/static/js/main.a34cbdeb.chunk.js",
+  "main.js.map": "/static/js/main.a34cbdeb.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
   "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
   "static/css/2.dd8ad808.chunk.css": "/static/css/2.dd8ad808.chunk.css",
-  "static/js/2.b4aa0910.chunk.js": "/static/js/2.b4aa0910.chunk.js",
-  "static/js/2.b4aa0910.chunk.js.map": "/static/js/2.b4aa0910.chunk.js.map",
+  "static/js/2.2f7f8b3d.chunk.js": "/static/js/2.2f7f8b3d.chunk.js",
+  "static/js/2.2f7f8b3d.chunk.js.map": "/static/js/2.2f7f8b3d.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.b8d21bef8f65d250f3e0358bdb0ee736.js": "/precache-manifest.b8d21bef8f65d250f3e0358bdb0ee736.js",
+  "precache-manifest.0a65ae7246800024869b3434975a445f.js": "/precache-manifest.0a65ae7246800024869b3434975a445f.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.dd8ad808.chunk.css.map": "/static/css/2.dd8ad808.chunk.css.map",
-  "static/css/main.fc5cf65a.chunk.css.map": "/static/css/main.fc5cf65a.chunk.css.map",
+  "static/css/main.46998016.chunk.css.map": "/static/css/main.46998016.chunk.css.map",
   "static/media/1.jpg": "/static/media/1.61c9b5fa.jpg",
   "static/media/2.jpg": "/static/media/2.6e6685da.jpg",
   "static/media/Marl-Bermudo-OJ-Abesamis-thesis.pdf": "/static/media/Marl-Bermudo-OJ-Abesamis-thesis.3e0bb9d6.pdf",
-  "static/media/marl.png": "/static/media/marl.b838eff8.png"
+  "static/media/marl.png": "/static/media/marl.b838eff8.png",
+  "static/media/Stargazing.sass": "/static/media/moon.5a720e3a.png"
 }
